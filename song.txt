@@ -1,3 +1,0 @@
-Download song by link (*) or put here your own, rename it to song.wav
-
-* https://www.mediafire.com/file/30f644bjh6qlpq9/song.wav/file
